@@ -87,7 +87,7 @@ In this task, you will create a resource group for the lab an an Azure Container
     ```sh
     az acr list --resource-group AZ500LAB09
     ```
-	> **Note**: May throw an error based on the registry case. 
+	> **Note**: May throw an error based on the registry case. Be mindful of the expected naming convention. 
 
     >**Note**: Record the name of the ACR. You will need it in the next task.
 
